@@ -3,6 +3,8 @@
 Welcome to the **IBM HR Analytics Project**, where we aim to uncover insights behind employee attrition and key HR metrics to improve employee retention, satisfaction, and performance.
 
 ---
+[IBM HR Analytics Dashboard]()
+
 
 ## 📜 Project Overview
 
