@@ -71,10 +71,4 @@ Proactive HR strategies focusing on employee engagement, salary optimization, an
 - Encourage moderate business travel or engagement to retain employees.
 - Conduct regular job satisfaction surveys and address concerns actively.
 
----
-
-> 📢 *"People don't leave jobs, they leave managers and environments."*  
-> HR analytics helps you build an environment where employees choose to stay.
-
----
 
