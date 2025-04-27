@@ -50,8 +50,7 @@ Proactive HR strategies focusing on employee engagement, salary optimization, an
 
 ## 🛠️ Tools & Technologies Used
 
-- **Tableau / Power BI** (for dashboard visualization)
-- **Python / R** (optional, for initial data preprocessing)
+- **Tableau Pubilc** (for dashboard visualization)
 - **Excel** (for basic EDA and data cleaning)
 
 ---
@@ -59,7 +58,7 @@ Proactive HR strategies focusing on employee engagement, salary optimization, an
 ## 📚 Dataset Source
 
 - IBM HR Analytics Employee Attrition & Performance Dataset  
-*(Publicly available on Kaggle or IBM sample datasets)*
+*[(Publicly available on Kaggle or IBM sample datasets)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)*
 
 ---
 
