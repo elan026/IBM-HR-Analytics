@@ -58,7 +58,7 @@ Proactive HR strategies focusing on employee engagement, salary optimization, an
 ## 📚 Dataset Source
 
 - IBM HR Analytics Employee Attrition & Performance Dataset  
-*[(Publicly available on Kaggle or IBM sample datasets)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)*
+*[Dataset link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)*
 
 ---
 
